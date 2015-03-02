@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<colorTheme id="666" name="Midnight Devil" modified="2015-03-02 13:00:00" author="Pablo Santiago Sánchez" website="http://sansis.com.br">
+<colorTheme id="35019" name="Midnight Devil" modified="2015-03-02 13:31:55" author="Pablo Santiago Sánchez" website="https://github.com/phackwer/Midnight-Devil">
     <searchResultIndication color="#5A5A5A" />
     <filteredSearchResultIndication color="#5A5A5A" />
     <occurrenceIndication color="#5A5A5A" />
     <writeOccurrenceIndication color="#5A5A5A" />
     <findScope color="#DDF0FF" />
-
     <deletionIndication color="#D25252" italic="false" underline="false" strikethrough="false" />
     <sourceHoverBackground color="#000000" />
-
-    <singleLineComment color="999999" italic="true" />
-    <multiLineComment color="#666666" italic="true" />
+    <singleLineComment color="#999999" italic="false" />
+    <multiLineComment color="#666666" italic="false" />
     <commentTaskTag color="#666666" italic="false" />
     <javadoc color="#666666" italic="false" />
     <javadocLink color="#548FA0" italic="false" />
-    <javadocTag color="#666666" italic="false" />
-    <javadocKeyword color="#EE8866" italic="false" />
-
+    <javadocTag color="#A8A8A8" italic="false" />
+    <javadocKeyword color="#EA9C77" italic="false" />
     <class color="#89BDFF" bold="false" italic="false" underline="false" strikethrough="false" />
     <interface color="#89BDFF" italic="false" />
     <method color="#AAAAAA" italic="false" />
@@ -26,11 +23,10 @@
     <string color="#EA9C77" italic="false" />
     <operator color="#F9F9F9" italic="false" />
     <keyword color="#88EE66" bold="false" italic="false" />
-    <annotation color="#A020F0" bold="false" italic="false" />
+    <annotation color="#D020F0" bold="false" italic="false" />
     <staticMethod color="#F9F9F9" bold="false" italic="false" underline="false" strikethrough="false" />
-    <localVariable color="#4B9CE9" bold="false" italic="false" underline="false" strikethrough="false" ></localVariable>
+    <localVariable color="#4B9CE9" bold="false" italic="false" underline="false" strikethrough="false" />
     <localVariableDeclaration color="#4B9CE9" italic="false" underline="false" strikethrough="false" />
-
     <field color="#4B9CE9" italic="false" underline="false" strikethrough="false" />
     <staticField color="#4B9CE9" italic="false" underline="false" strikethrough="false" />
     <staticFinalField color="#4B9CE9" italic="false" underline="false" strikethrough="false" />
@@ -46,6 +42,6 @@
     <currentLine color="#2F2F2F" />
     <foreground color="#FFFFFF" />
     <lineNumber color="#999999" />
-    <selectionBackground color="#999999" />
-    <selectionForeground color="#FFFFFF" />
+    <selectionBackground color="#FFFFFF" />
+    <selectionForeground color="#999999" />
 </colorTheme>
